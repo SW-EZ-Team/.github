@@ -8,7 +8,7 @@ Java · Rust · Python 백엔드 3종과 React 프론트엔드를 함께 운영�
 |---|---|---|
 | [frontend-web](https://github.com/SW-EZ-Team/frontend-web) | 웹 프론트엔드 (SPA) | Vite + React + TypeScript, Vercel 배포 |
 | [backend-spring](https://github.com/SW-EZ-Team/backend-spring) | JVM 기반 API 서버 | Java 21, Spring Boot 3.4.x, Spring Data JPA (Hibernate), Gradle Groovy DSL |
-| [backend-rust](https://github.com/SW-EZ-Team/backend-rust) | 고성능 시스템 API 서버 | Rust stable (edition 2021), Axum, Tokio, sqlx |
+| [backend-rust](https://github.com/SW-EZ-Team/backend-rust) | 파이썬 래핑된 라이브러리 모듈 | Rust  |
 | [backend-fastapi](https://github.com/SW-EZ-Team/backend-fastapi) | Python 비동기 API + 작업 큐 | Python 3.12, FastAPI, SQLAlchemy 2.0 async, uv, Celery (worker + beat) |
 | [infra](https://github.com/SW-EZ-Team/infra) | 공용 인프라 + 스키마 중앙 관리 | Postgres 17, Redis 7.4, Qdrant v1.12.x, Flyway 마이그레이션 |
 | [.github](https://github.com/SW-EZ-Team/.github) | 조직 프로필 | GitHub Organization Profile |
